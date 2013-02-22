@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Worksheet>
+<Version major="15" minor="0"/>
+<Label-Scheme value="2" prefix=""/>
+<View-Properties presentation="false"><Zoom percentage="150"/></View-Properties>
+<MapleNet-Properties elisiondigitsbefore="100" labelling="true" indentamount="4" elisiontermsthreshold="10000" ansi="false" errorbreak="1" useclientjvm="true" echo="1" imaginaryunit="I" labelwidth="20" contextmenusize="automatic" plotdriver="opengl" elisiondigitsafter="100" plotoutput="terminal" helpbrowser="standard" rtablesize="10" elisiontermsbefore="100" elisiondigitsthreshold="10000" typesetting="standard" plotdevice="inline" verboseproc="1" showassumed="1" errorcursor="false" longdelim="true" plotoptions="" quiet="false" elisiontermsafter="100" screenwidth="79" preplot="" prettyprint="3" displayprecision="-1" screenpixelheight="1050" warnlevel="3" screenheight="25" latexwidth="6.0" postplot="" prompt="&gt; " ShowLabels="true"/>
+<Styles><Font name="Ordered List 1" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Annotation Text" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 2" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 3" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 4" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 5" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Author" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Annotation Title" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Warning" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Caption Reference" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Maple Input Placeholder" background="[255,255,255]" bold="true" executable="true" family="Courier New" foreground="[200,0,200]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="true"/>
+<Font name="Maple Plot" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Code" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[255,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Line Printed Output" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Text Output" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Diagnostic" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[40,120,40]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Inert Output" background="[255,255,255]" bold="false" executable="true" family="Times New Roman" foreground="[144,144,144]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Normal" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Hyperlink" background="[255,255,255]" bold="false" executable="false" family="Times New Roma" foreground="[0,128,128]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Maple Output" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Dash Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Math" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Maple Input" background="[255,255,255]" bold="true" executable="true" family="Courier New" foreground="[255,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Output" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Input" background="[255,255,255]" bold="false" executable="true" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="HyperlinkError" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[255,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Header and Footer" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="10" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Error" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[255,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Title" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 1" background="[255,255,255]" bold="true" executable="false" family="Times New Roma" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Text" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Bullet Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 4" background="[255,255,255]" bold="false" executable="false" family="Times New Roma" foreground="[0,0,0]" italic="true" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Equation Label" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 3" background="[255,255,255]" bold="true" executable="false" family="Times New Roma" foreground="[0,0,0]" italic="true" opaque="false" readonly="false" size="14" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 2" background="[255,255,255]" bold="true" executable="false" family="Times New Roma" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="16" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="HyperlinkWarning" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Dictionary Hyperlink" background="[255,255,255]" bold="false" executable="false" family="Times New Roma" foreground="[147,0,15]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Caption Text" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="List Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Layout name="Ordered List 1" alignment="left" bullet="numeric" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 2" alignment="left" bullet="alphabetic" firstindent="0" leftmargin="36" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 3" alignment="left" bullet="roman" firstindent="0" leftmargin="72" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 4" alignment="left" bullet="ALPHABETIC" firstindent="0" leftmargin="108" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 5" alignment="left" bullet="ROMAN" firstindent="0" leftmargin="144" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Author" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="8" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Warning" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Annotation Title" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="12" spacebelow="12" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Maple Plot" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Line Printed Output" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="any" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Text Output" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="newline" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Diagnostic" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="any" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Normal" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Maple Output" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.3" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Dash Item" alignment="left" bullet="dash" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="HyperlinkError" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Error" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Title" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="12" spacebelow="12" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 1" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="4" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Bullet Item" alignment="left" bullet="dot" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 4" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 3" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 2" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="2" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="HyperlinkWarning" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="List Item" alignment="left" bullet="indent" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Pencil-style name="Pencil 5" pen-color="[255,0,0]" pen-height="5.0" pen-width="5.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 4" pen-color="[0,0,255]" pen-height="3.0" pen-width="3.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 3" pen-color="[0,0,0]" pen-height="3.0" pen-width="3.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 2" pen-color="[0,0,255]" pen-height="1.0" pen-width="1.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 1" pen-color="[0,0,0]" pen-height="1.0" pen-width="1.0" pen-opacity="1.0"/>
+<Highlighter-style name="Highlighter 2" pen-color="[255,204,0]" pen-height="14.0" pen-width="14.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 1" pen-color="[255,153,255]" pen-height="12.0" pen-width="8.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 4" pen-color="[0,255,255]" pen-height="32.0" pen-width="32.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 3" pen-color="[51,255,0]" pen-height="24.0" pen-width="24.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 5" pen-color="[255,255,0]" pen-height="48.0" pen-width="48.0" pen-opacity="0.8"/>
+</Styles>
+<Task-table>
+    <Task-category name="&lt;default&gt;">
+    </Task-category>
+</Task-table>
+<Task>
+</Task><Presentation-Block>
+<Group view="code" labelreference="L629" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="Newton := proc (f::procedure, a::numeric, b::numeric)::numeric; local i, S, x, dx, h, A, j, k, temp, sum, dim, flag; description &quot;Implementacja metody 3/8 Newtona&quot;; h := 1; dim := b-a; A := Array[]; print*A; k := 1; for j from a to b do print(&quot;k - &quot;); print(k); temp := f(j); print(temp); A[k] := temp; print(A); k := k+1 end do; print(a); sum := 0; flag := 0; innerflag := 0; for i to dim do if i = 1 then print(&quot;=&gt;i  =1 &quot;); print(A[i]); sum := sum+A[i] elif flag = 0 then if i &lt;&gt; 1 then if i &lt;&gt; dim then print(&quot;=&gt;flag  = 0&quot;); print(i); print(dim); sum := sum+3*A[i]; innerflag := innerflag+1; print(&quot;inf&quot;); print(innerflag); if innerflag = 2 then print(&quot;change flag&quot;); flag := 1 end if end if end if elif flag = 1 then if i &lt;&gt; 1 then if i &lt;&gt; dim then print(&quot;=&gt;in flag = 1&quot;); sum := sum+2*A[i]; flag := 0 end if end if end if; if i = dim then print(&quot;=&gt;&gt;&gt;&gt;in i  = dim&quot;); print(i); print(&quot;if2&quot;); sum := sum+A[i]; print(A[i]) end if end do; print(&quot;sum&quot;); print(sum); return (3/8)*h*sum; print(&quot;dim = &quot;); print(dim) end proc:" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzZgXm0tSSNtaUdGJDYlUSdOZXd0b25GJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYtUSomY29sb25lcTtGJy9GM1Enbm9ybWFsRicvJSZmZW5jZUdRJmZhbHNlRicvJSpzZXBhcmF0b3JHRj0vJSlzdHJldGNoeUdGPS8lKnN5bW1ldHJpY0dGPS8lKGxhcmdlb3BHRj0vJS5tb3ZhYmxlbGltaXRzR0Y9LyUnYWNjZW50R0Y9LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTC1GNjYvUSVwcm9jRicvJSVib2xkR0YxL0YzUSVib2xkRicvJStmb250d2VpZ2h0R0ZVRjtGPkZARkJGREZGRkgvRktRJjAuMGVtRicvRk5GWS1JKG1mZW5jZWRHRiQ2JC1GIzYwLUYsNiVRImZGJ0YvRjItRjY2LVEtJlByb3BvcnRpb247RidGOUY7Rj5GQEZCRkRGRkZIRkpGTS1GLDYlUSpwcm9jZWR1cmVGJ0YvRjItRjY2LVEiLEYnRjlGOy9GP0YxRkBGQkZERkZGSEZYL0ZOUSwwLjMzMzMzMzNlbUYnLUYsNiVRImFGJ0YvRjJGXW8tRiw2JVEobnVtZXJpY0YnRi9GMkZjby1GNjYtUSJ+RidGOUY7Rj5GQEZCRkRGRkZIRlhGWi1GLDYlUSJiRidGL0YyRl1vRlxwLyUrZXhlY3V0YWJsZUdGPUY5RjlGXW9GXHAtRjY2LVEiO0YnRjlGO0Zmb0ZARkJGREZGRkhGWEZNLUknbXNwYWNlR0YkNiYvJSdoZWlnaHRHUSYwLjBleEYnLyUmd2lkdGhHRlkvJSZkZXB0aEdGX3EvJSpsaW5lYnJlYWtHUShuZXdsaW5lRidGX3BGX3BGX3BGX3BGX3AtRjY2L1EmbG9jYWxGJ0ZSRlRGVkY7Rj5GQEZCRkRGRkZIRlhGWkZfcC1GLDYlUSJpRidGL0YyRmNvRl9wLUYsNiVRIlNGJ0YvRjJGY29GX3AtRiw2JVEieEYnRi9GMkZjb0ZfcC1GLDYlUSNkeEYnRi9GMkZjby1GLDYlUSJoRidGL0YyRmNvLUYsNiVRIkFGJ0YvRjJGY28tRiw2JVEiakYnRi9GMkZjby1GLDYlUSJrRidGL0YyRmNvLUYsNiVRJXRlbXBGJ0YvRjJGY28tRiw2JVEkc3VtRidGL0YyRmNvLUYsNiVRJGRpbUYnRi9GMkZjby1GLDYlUSVmbGFnRidGL0YyRmdwRmpwRl9wRl9wRl9wRl9wRl9wLUY2Ni9RLGRlc2NyaXB0aW9uRidGUkZURlZGO0Y+RkBGQkZERkZGSEZYRlpGX3AtSSNtc0dGJDYjUUFJbXBsZW1lbnRhY2phfm1ldG9keX4zLzh+TmV3dG9uYUYnRmdwRmpwRmZyRjUtSSNtbkdGJDYkUSIxRidGOUZncC1GNjYtUSIjRidGOUY7Rj5GQEZCRkRGRkZIRlhGWkZic0ZqcEZfcEZoc0Y1RmJwLUY2Ni1RKCZtaW51cztGJ0Y5RjtGPkZARkJGREZGRkgvRktRLDAuMjIyMjIyMmVtRicvRk5GYHVGaW9GZ3BGanAtRltxNiZGXXFGYHFGYnEvRmVxUSVhdXRvRidGanBGX3BGaXJGNS1GLDYlUSZBcnJheUYnL0YwRj1GOS1GZm42Ji1GIzYlLUYsNiNRIUYnRmVwRjlGOS8lJW9wZW5HUSJbRicvJSZjbG9zZUdRIl1GJ0ZncEZqcEZfcC1GLDYlUSZwcmludEYnRi9GMkZfcC1GZm42JC1GIzYlRmlyRmVwRjlGOUZncEZqcEZfcEZfc0Y1RmV0RmdwRmpwRl9wLUY2Ni9RJGZvckYnRlJGVEZWRjtGPkZARkJGREZGRkhGWEZaRl9wRlxzRl9wLUY2Ni9RJWZyb21GJ0ZSRlRGVkY7Rj5GQEZCRkRGRkZIRlhGWkZfcEZpb0ZfcC1GNjYvUSN0b0YnRlJGVEZWRjtGPkZARkJGREZGRkhGWEZaRl9wRmJwRl9wLUY2Ni9RI2RvRidGUkZURlZGO0Y+RkBGQkZERkZGSEZYRlpGanBGX3BGZ3YtRmZuNiQtRiM2J0Zedi1GYnQ2I1Ela34tfkYnRl52RmVwRjlGOUZncEZqcEZfcEZndi1GZm42JC1GIzYlRl9zRmVwRjlGOUZncEZqcEZfcEZpdC1GLDYlUSZTbGVlcEYnRi9GMi1GZm42JC1GIzYlLUZmdDYkUSIyRidGOUZlcEY5RjlGZ3BGanBGX3BGYnMtRjY2LkY4Ri9GMkY7Rj5GQEZCRkRGRkZIRkpGTUZqbi1GZm42JC1GIzYkRlxzRjlGOUZncEZqcEZfcEZndi1GZm42JC1GIzYlRmJzRmVwRjlGOUZncEZqcEZfcEZpci1GZm42JkZjeEY5RmF2RmR2Rl9wRjVGYnNGZ3BGanBGX3BGZ3ZGanZGZ3BGanBGX3BGX3NGNUZfcy1GNjYtUSIrRidGOUY7Rj5GQEZCRkRGRkZIRl91RmF1RmV0RmdwRmpwRl9wLUY2Ni9RJGVuZEYnRlJGVEZWRjtGPkZARkJGREZGRkhGWEZaRl9wRmd3RmdwRmpwRmJ1RmpwRl9wRmd2LUZmbjYkLUYjNiVGaW9GZXBGOUY5RmdwRmpwRmpwRl9wRl9wRl9wRl9wRl9wRl9wRmpwRl9wRl9wRl9wRmVzRjUtRmZ0NiRRIjBGJ0Y5RmdwRmpwRl9wRmpwRl9wRlt0RjVGZXpGZ3BGanBGX3AtRiw2JVEqaW5uZXJmbGFnRidGL0YyRjVGZXpGZ3BGanBGX3BGX3BGX3BGX3BGX3BGXndGX3BGanFGX3BGYXdGX3BGZXRGX3BGZHdGX3BGaHNGX3BGX3BGZ3dGanBGX3AtRjY2L1EjaWZGJ0ZSRlRGVkY7Rj5GQEZCRkRGRkZIRlhGWkZfcEZqcS1GNjYtUSI9RidGOUY7Rj5GQEZCRkRGRkZIRkpGTUZldEZfcC1GNjYvUSV0aGVuRidGUkZURlZGO0Y+RkBGQkZERkZGSEZYRlpGX3BGanBGYnVGZ3YtRmZuNiQtRiM2JkZedi1GYnQ2I1EpPT5pfn49MX5GJ0ZedkY5RjlGZ3BGanBGYnVGanBGX3BGZ3YtRmZuNiQtRiM2JkZpci1GZm42Ji1GIzYlRmpxRmVwRjlGOUZhdkZkdkZlcEY5RjlGZ3BGX3BGX3BGX3BGanBGYnVGZXNGNUZlc0ZbekZpci1GZm42Ji1GIzYkRmpxRjlGOUZhdkZkdkZncEZqcEZfcEZpdC1GLDYlUShlbmR+aWY7RidGaXVGOUZqcEZfcC1GNjYvUSVlbGlmRidGUkZURlZGO0Y+RkBGQkZERkZGSEZYRlpGX3BGW3RGXltsRmV6Rl9wRmFbbEZfcEZbW2xGX3BGanEtRjY2LVErJk5vdEVxdWFsO0YnRjlGO0Y+RkBGQkZERkZGSEZKRk1GZXRGX3BGYVtsRl9wRltbbEZfcEZqcUZdXWxGaHNGX3BGYVtsRmpwRl9wRmd2LUZmbjYkLUYjNidGXnYtRmJ0NiNRLD0+ZmxhZ35+PX4wRidGXnZGZXBGOUY5RmdwRmpwRl9wRmd2LUZmbjYkRmFcbEY5RmdwRmpwRl9wRmd2LUZmbjYkLUYjNiVGaHNGZXBGOUY5RmdwRmpwRl9wRl9wRmVzRjVGZXNGW3otRmZ0NiRRIjNGJ0Y5LUY2Ni1RJyZzZG90O0YnRjlGO0Y+RkBGQkZERkZGSEZYRlpGaXJGX1xsRmdwRmpwRl9wRmh6RjVGaHpGW3pGZXRGZ3BGanBGX3BGZ3YtRmZuNiQtRiM2J0Zedi1GYnQ2I1EkaW5mRidGXnZGZXBGOUY5RmdwRmpwRl9wRmd2LUZmbjYkLUYjNiVGaHpGZXBGOUY5RmdwRmpwRl9wRl9wRltbbEZfcEZoekZfcEZeW2xGXHlGX3BGYVtsRmpwRl9wRmd2LUZmbjYkLUYjNidGXnYtRmJ0NiNRLGNoYW5nZX5mbGFnRidGXnZGZXBGOUY5RmdwRmpwRl9wRl9wRlt0RjVGZXRGZ3BGanBGX3BGXnpGX3BGW1tsRmdwRmpwRl9wRmpwRmJ1RmpwRl9wRl56Rl9wRltbbEZfcEZeekZfcEZbW2xGZ3BGanBGanBGX3BGanBGX3BGalxsRl9wRlt0Rl9wRl5bbEZldEZfcEZhW2xGX3BGW1tsRl9wRmpxRl1dbEZldEZfcEZhW2xGX3BGW1tsRl9wRmpxRl1dbEZoc0ZfcEZhW2xGanBGX3BGZ3YtRmZuNiQtRiM2J0Zedi1GYnQ2I1EuPT5pbn5mbGFnfj1+MUYnRl52RmVwRjlGOUZncEZqcEZfcEZlc0Y1Rl9wRmVzRlt6Rlx5RmBebEZpckZfXGxGZ3BGanBGX3BGW3RGNUZlekZncEZqcEZidUZqcEZfcEZeekZfcEZbW2xGX3BGXnpGX3BGW1tsRmdwRmpwRl9wRmpwRl9wRl56Rl9wRltbbEZncEZqcEZidUZqcEZfcEZqcEZidUZqcEZfcEZqcEZfcEZbW2xGX3BGanFGX3BGXltsRmhzRl9wRmFbbEZqcEZfcEZndi1GZm42JC1GIzYnRl52LUZidDYjUTE9Pj4+Pmlufml+fj1+ZGltRidGXnZGZXBGOUY5RmdwRmpwRl9wRmd2RmddbEZncEZqcEZidUZndi1GZm42JC1GIzYmRl52LUZidDYjUSRpZjJGJ0ZedkY5RjlGZ3BGanBGYnVGanBGX3BGX3BGX3BGX3BGX3BGX3BGX3BGZXNGNUZlc0ZbekZpckZfXGxGZ3BGanBGX3BGX3BGX3BGX3BGX3BGX3BGX3BGX3BGZ3YtRmZuNiQtRiM2JUZpckZjXGxGOUY5RmdwRl9wRmpwRmJ1RmpwRl9wRl56Rl9wRltbbEZncEZqcEZfcEZfcEZfcEZfcEZfcEZeekZfcEZnd0ZncEZqcEZfcEZfcEZndi1GZm42JC1GIzYmRl52LUZidDYjRmdzRl52RjlGOUZncEZqcEZfcEZndi1GZm42JC1GIzYkRmVzRjlGOUZncEZqcEZidUZqcEZfcC1GNjYvUSdyZXR1cm5GJ0ZSRlRGVkY7Rj5GQEZCRkRGRkZIRlhGWkZfcC1JJm1mcmFjR0YkNihGXV5sLUYjNiUtRmZ0NiRRIjhGJ0Y5Ri9GMi8lLmxpbmV0aGlja25lc3NHRmh0LyUrZGVub21hbGlnbkdRJ2NlbnRlckYnLyUpbnVtYWxpZ25HRmdibC8lKWJldmVsbGVkR0Y9RmBebEZmckZgXmxGZXNGZ3BGanBGX3BGZ3YtRmZuNiQtRiM2J0Zedi1GYnQ2I1EnZGltfj1+RidGXnZGZXBGOUY5RmdwRmpwRl9wRmd2RmldbEZncEZqcEZqcEZidUZqcEZqcEZfcEZeekZfcEZPLUY2Ni1RIjpGJ0Y5RjtGPkZARkJGREZGRkhGSkZNRmVwRjk=">QyQ+SSdOZXd0b25HNiJmKzYlJ0kiZkdGJUkqcHJvY2VkdXJlRyUqcHJvdGVjdGVkRydJImFHRiVJKG51bWVyaWNHRisnSSJiR0YlRi42LkkiaUdGJUkiU0dGJUkieEdGJUkjZHhHRiVJImhHRiVJIkFHRiVJImpHRiVJImtHRiVJJXRlbXBHRiVJJHN1bUdGJUkkZGltR0YlSSVmbGFnR0YlRiVGJUMyPjgoIiIiPjguLCY5JkZBOSUhIiI+OCkmSSZBcnJheUdGK0YlKiZJJnByaW50R0YrRkFGSUZBPjgrRkE/KDgqRkZGQUZFSSV0cnVlR0YrQyktRk02I1Ela34tfkYlLUZNNiNGTz44LC05JDYjRlEtRk02I0ZaPiZGSUZYRlotRk02I0ZJPkZPLCZGT0ZBRkFGQS1GTTYjRkY+OC0iIiE+OC9GZG8+SSppbm5lcmZsYWdHRiVGZG8/KDgkRkFGQUZDRlJDJEAoL0Zqb0ZBQyUtRk02I1EpPT5pfn49MX5GJS1GTTYjJkZJNiNGam8+RmNvLCZGY29GQUZkcEZBL0Zmb0Zkb0AkMEZqb0ZBQCQwRmpvRkNDKi1GTTYjUSw9PmZsYWd+fj1+MEYlLUZNRmVwLUZNNiNGQz5GY28sJkZjb0ZBRmRwIiIkPkZobywmRmhvRkFGQUZBLUZNNiNRJGluZkYlLUZNNiNGaG9AJC9GaG8iIiNDJC1GTTYjUSxjaGFuZ2V+ZmxhZ0YlPkZmb0ZBL0Zmb0ZBQCRGanBAJEZccUMlLUZNNiNRLj0+aW5+ZmxhZ349fjFGJT5GY28sJkZjb0ZBRmRwRmByRmVvQCQvRmpvRkNDJy1GTTYjUTE9Pj4+Pmlufml+fj1+ZGltRiVGYXEtRk02I1EkaWYyRiVGZnBGYnAtRk02I1Ekc3VtRiUtRk02I0Zjb08sJComRkBGQUZjb0ZBI0ZmcSIiKS1GTTYjUSdkaW1+PX5GJUZicTYjUUFJbXBsZW1lbnRhY2phfm1ldG9keX4zLzh+TmV3dG9uYUYlRiVGJTYjRi5GRw==</Equation></Text-field>
+</Input>
+<Output>
+<Text-field style="HyperlinkWarning" layout="HyperlinkWarning"><Hyperlink linktarget="http://www.maplesoft.com/support/help/errors/view.aspx?path=Warning,%20%60innerflag%60%20is%20implicitly%20declared%20local%20to%20procedure%20%60Newton%60" hyperlink="true"><Font style="HyperlinkWarning">Warning, `innerflag` is implicitly declared local to procedure `Newton`</Font></Hyperlink></Text-field>
+</Output>
+</Group>
+<Group view="code" labelreference="L632" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L630" drawlabel="true">
+<Input>
+<Text-field style="Text" layout="Normal"><Font encoding="UTF-8">Testujemy na przyk\305\202adzie z wyk\305\202adu:</Font></Text-field>
+</Input>
+</Group>
+<Group view="code" labelreference="L631" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="Newton(proc (x) options operator, arrow; 2*x+1 end proc, -1, 5);" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkjbWlHRiQ2JVEnTmV3dG9uRicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkobWZlbmNlZEdGJDYkLUYjNjAtRiw2JVEieEYnRi9GMi1JI21vR0YkNi1RKCZzcmFycjtGJy9GM1Enbm9ybWFsRicvJSZmZW5jZUdRJmZhbHNlRicvJSpzZXBhcmF0b3JHRkUvJSlzdHJldGNoeUdGRS8lKnN5bW1ldHJpY0dGRS8lKGxhcmdlb3BHRkUvJS5tb3ZhYmxlbGltaXRzR0ZFLyUnYWNjZW50R0ZFLyUnbHNwYWNlR1EmMC4wZW1GJy8lJ3JzcGFjZUdGVC1JI21uR0YkNiRRIjJGJ0ZBLUY+Ni1RIn5GJ0ZBRkNGRkZIRkpGTEZORlBGUkZVRjotRj42LVEiK0YnRkFGQ0ZGRkhGSkZMRk5GUC9GU1EsMC4yMjIyMjIyZW1GJy9GVkZcby1GWDYkUSIxRidGQS1GPjYtUSIsRidGQUZDL0ZHRjFGSEZKRkxGTkZQRlIvRlZRLDAuMzMzMzMzM2VtRictRj42LVEqJnVtaW51czA7RidGQUZDRkZGSEZKRkxGTkZQRltvRl1vRl5vRmFvLUZYNiRRIjVGJ0ZBLyUrZXhlY3V0YWJsZUdGRUZBRkEtRj42LVEiO0YnRkFGQ0Zkb0ZIRkpGTEZORlBGUi9GVlEsMC4yNzc3Nzc4ZW1GJ0ZdcEZB">QyQtSSdOZXd0b25HNiI2JWYqNiNJInhHRiVGJTYkSSlvcGVyYXRvckdGJUkmYXJyb3dHRiVGJSwmOSQiIiMiIiJGMEYlRiVGJSEiIiIiJkYw</Equation></Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USVrfi1+NiI=</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">ISIi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkjbWlHRiQ2JVEmdGFibGVGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSShtZmVuY2VkR0YkNiQtRiM2Ji1GNjYmLUYjNiYtRiM2KC1JI21uR0YkNiRRIjFGJy9GM1Enbm9ybWFsRictSSNtb0dGJDYtUSI9RidGRC8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGTC8lKXN0cmV0Y2h5R0ZMLyUqc3ltbWV0cmljR0ZMLyUobGFyZ2VvcEdGTC8lLm1vdmFibGVsaW1pdHNHRkwvJSdhY2NlbnRHRkwvJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0Zlbi1GIzYlLUZHNi1RKiZ1bWludXMwO0YnRkRGSkZNRk9GUUZTRlVGVy9GWlEsMC4yMjIyMjIyZW1GJy9GZ25GXm9GQEZELyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0ZMRkRGYG9GY29GREZELyUlb3BlbkdRIltGJy8lJmNsb3NlR1EiXUYnRmBvRmNvRkRGREZgb0Zjb0ZE">SSJBRzYi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USVrfi1+NiI=</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIj</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkjbWlHRiQ2JVEmdGFibGVGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSShtZmVuY2VkR0YkNiQtRiM2Ji1GNjYmLUYjNigtRiM2KC1JI21uR0YkNiRRIjFGJy9GM1Enbm9ybWFsRictSSNtb0dGJDYtUSI9RidGRC8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGTC8lKXN0cmV0Y2h5R0ZMLyUqc3ltbWV0cmljR0ZMLyUobGFyZ2VvcEdGTC8lLm1vdmFibGVsaW1pdHNHRkwvJSdhY2NlbnRHRkwvJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0Zlbi1GIzYlLUZHNi1RKiZ1bWludXMwO0YnRkRGSkZNRk9GUUZTRlVGVy9GWlEsMC4yMjIyMjIyZW1GJy9GZ25GXm9GQEZELyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0ZMRkQtRkc2LVEiLEYnRkRGSi9GTkYxRk9GUUZTRlVGVy9GWlEmMC4wZW1GJy9GZ25RLDAuMzMzMzMzM2VtRictRiM2KC1GQTYkUSIyRidGREZGRkBGYG9GY29GREZgb0Zjb0ZERkQvJSVvcGVuR1EiW0YnLyUmY2xvc2VHUSJdRidGYG9GY29GREZERmBvRmNvRkQ=">SSJBRzYi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USVrfi1+NiI=</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIk</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIk</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkjbWlHRiQ2JVEmdGFibGVGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSShtZmVuY2VkR0YkNiQtRiM2Ji1GNjYmLUYjNiotRiM2KC1JI21uR0YkNiRRIjFGJy9GM1Enbm9ybWFsRictSSNtb0dGJDYtUSI9RidGRC8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGTC8lKXN0cmV0Y2h5R0ZMLyUqc3ltbWV0cmljR0ZMLyUobGFyZ2VvcEdGTC8lLm1vdmFibGVsaW1pdHNHRkwvJSdhY2NlbnRHRkwvJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0Zlbi1GIzYlLUZHNi1RKiZ1bWludXMwO0YnRkRGSkZNRk9GUUZTRlVGVy9GWlEsMC4yMjIyMjIyZW1GJy9GZ25GXm9GQEZELyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0ZMRkQtRkc2LVEiLEYnRkRGSi9GTkYxRk9GUUZTRlVGVy9GWlEmMC4wZW1GJy9GZ25RLDAuMzMzMzMzM2VtRictRiM2KC1GQTYkUSIyRidGREZGRkBGYG9GY29GREZlby1GIzYoLUZBNiRRIjNGJ0ZERkZGZHBGYG9GY29GREZgb0Zjb0ZERkQvJSVvcGVuR1EiW0YnLyUmY2xvc2VHUSJdRidGYG9GY29GREZERmBvRmNvRkQ=">SSJBRzYi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USVrfi1+NiI=</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIl</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIm</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkjbWlHRiQ2JVEmdGFibGVGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSShtZmVuY2VkR0YkNiQtRiM2Ji1GNjYmLUYjNiwtRiM2KC1JI21uR0YkNiRRIjFGJy9GM1Enbm9ybWFsRictSSNtb0dGJDYtUSI9RidGRC8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGTC8lKXN0cmV0Y2h5R0ZMLyUqc3ltbWV0cmljR0ZMLyUobGFyZ2VvcEdGTC8lLm1vdmFibGVsaW1pdHNHRkwvJSdhY2NlbnRHRkwvJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0Zlbi1GIzYlLUZHNi1RKiZ1bWludXMwO0YnRkRGSkZNRk9GUUZTRlVGVy9GWlEsMC4yMjIyMjIyZW1GJy9GZ25GXm9GQEZELyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0ZMRkQtRkc2LVEiLEYnRkRGSi9GTkYxRk9GUUZTRlVGVy9GWlEmMC4wZW1GJy9GZ25RLDAuMzMzMzMzM2VtRictRiM2KC1GQTYkUSIyRidGREZGRkBGYG9GY29GREZlby1GIzYoLUZBNiRRIjNGJ0ZERkZGZHBGYG9GY29GREZlby1GIzYoLUZBNiRRIjRGJ0ZERkYtRkE2JFEiNUYnRkRGYG9GY29GREZgb0Zjb0ZERkQvJSVvcGVuR1EiW0YnLyUmY2xvc2VHUSJdRidGYG9GY29GREZERmBvRmNvRkQ=">SSJBRzYi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USVrfi1+NiI=</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIm</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIo</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkjbWlHRiQ2JVEmdGFibGVGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSShtZmVuY2VkR0YkNiQtRiM2Ji1GNjYmLUYjNi4tRiM2KC1JI21uR0YkNiRRIjFGJy9GM1Enbm9ybWFsRictSSNtb0dGJDYtUSI9RidGRC8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGTC8lKXN0cmV0Y2h5R0ZMLyUqc3ltbWV0cmljR0ZMLyUobGFyZ2VvcEdGTC8lLm1vdmFibGVsaW1pdHNHRkwvJSdhY2NlbnRHRkwvJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0Zlbi1GIzYlLUZHNi1RKiZ1bWludXMwO0YnRkRGSkZNRk9GUUZTRlVGVy9GWlEsMC4yMjIyMjIyZW1GJy9GZ25GXm9GQEZELyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0ZMRkQtRkc2LVEiLEYnRkRGSi9GTkYxRk9GUUZTRlVGVy9GWlEmMC4wZW1GJy9GZ25RLDAuMzMzMzMzM2VtRictRiM2KC1GQTYkUSIyRidGREZGRkBGYG9GY29GREZlby1GIzYoLUZBNiRRIjNGJ0ZERkZGZHBGYG9GY29GREZlby1GIzYoLUZBNiRRIjVGJ0ZERkYtRkE2JFEiN0YnRkRGYG9GY29GREZlby1GIzYoLUZBNiRRIjRGJ0ZERkZGaXBGYG9GY29GREZgb0Zjb0ZERkQvJSVvcGVuR1EiW0YnLyUmY2xvc2VHUSJdRidGYG9GY29GREZERmBvRmNvRkQ=">SSJBRzYi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USVrfi1+NiI=</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIn</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIq</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkjbWlHRiQ2JVEmdGFibGVGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSShtZmVuY2VkR0YkNiQtRiM2Ji1GNjYmLUYjNjAtRiM2KC1JI21uR0YkNiRRIjFGJy9GM1Enbm9ybWFsRictSSNtb0dGJDYtUSI9RidGRC8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGTC8lKXN0cmV0Y2h5R0ZMLyUqc3ltbWV0cmljR0ZMLyUobGFyZ2VvcEdGTC8lLm1vdmFibGVsaW1pdHNHRkwvJSdhY2NlbnRHRkwvJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0Zlbi1GIzYlLUZHNi1RKiZ1bWludXMwO0YnRkRGSkZNRk9GUUZTRlVGVy9GWlEsMC4yMjIyMjIyZW1GJy9GZ25GXm9GQEZELyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0ZMRkQtRkc2LVEiLEYnRkRGSi9GTkYxRk9GUUZTRlVGVy9GWlEmMC4wZW1GJy9GZ25RLDAuMzMzMzMzM2VtRictRiM2KC1GQTYkUSIyRidGREZGRkBGYG9GY29GREZlby1GIzYoLUZBNiRRIjNGJ0ZERkZGZHBGYG9GY29GREZlby1GIzYoLUZBNiRRIjVGJ0ZERkYtRkE2JFEiN0YnRkRGYG9GY29GREZlby1GIzYoLUZBNiRRIjRGJ0ZERkZGaXBGYG9GY29GREZlby1GIzYoLUZBNiRRIjZGJ0ZERkYtRkE2JFEiOUYnRkRGYG9GY29GREZgb0Zjb0ZERkQvJSVvcGVuR1EiW0YnLyUmY2xvc2VHUSJdRidGYG9GY29GREZERmBvRmNvRkQ=">SSJBRzYi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USVrfi1+NiI=</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIo</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiM2</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkjbWlHRiQ2JVEmdGFibGVGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSShtZmVuY2VkR0YkNiQtRiM2Ji1GNjYmLUYjNjItRiM2KC1JI21uR0YkNiRRIjFGJy9GM1Enbm9ybWFsRictSSNtb0dGJDYtUSI9RidGRC8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGTC8lKXN0cmV0Y2h5R0ZMLyUqc3ltbWV0cmljR0ZMLyUobGFyZ2VvcEdGTC8lLm1vdmFibGVsaW1pdHNHRkwvJSdhY2NlbnRHRkwvJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0Zlbi1GIzYlLUZHNi1RKiZ1bWludXMwO0YnRkRGSkZNRk9GUUZTRlVGVy9GWlEsMC4yMjIyMjIyZW1GJy9GZ25GXm9GQEZELyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0ZMRkQtRkc2LVEiLEYnRkRGSi9GTkYxRk9GUUZTRlVGVy9GWlEmMC4wZW1GJy9GZ25RLDAuMzMzMzMzM2VtRictRiM2KC1GQTYkUSIyRidGREZGRkBGYG9GY29GREZlby1GIzYoLUZBNiRRIjNGJ0ZERkZGZHBGYG9GY29GREZlby1GIzYoLUZBNiRRIjVGJ0ZERkYtRkE2JFEiN0YnRkRGYG9GY29GREZlby1GIzYoLUZBNiRRIjRGJ0ZERkZGaXBGYG9GY29GREZlby1GIzYoRlxxRkYtRkE2JFEjMTFGJ0ZERmBvRmNvRkRGZW8tRiM2KC1GQTYkUSI2RidGREZGLUZBNiRRIjlGJ0ZERmBvRmNvRkRGYG9GY29GREZELyUlb3BlbkdRIltGJy8lJmNsb3NlR1EiXUYnRmBvRmNvRkRGREZgb0Zjb0ZE">SSJBRzYi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">ISIi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USk9Pml+fj0xfjYi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">ISIi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USw9PmZsYWd+fj1+MDYi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIj</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIn</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USRpbmY2Ig==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USw9PmZsYWd+fj1+MDYi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIk</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIn</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USRpbmY2Ig==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIj</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USxjaGFuZ2V+ZmxhZzYi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">US49PmlufmZsYWd+PX4xNiI=</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USw9PmZsYWd+fj1+MDYi</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIm</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIn</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USRpbmY2Ig==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIk</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">UTE9Pj4+Pmlufml+fj1+ZGltNiI=</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIn</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USRpZjI2Ig==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIq</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">USRzdW02Ig==</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiNe</Equation></Text-field>
+</Output>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IyIkYCIiIik=</Equation></Text-field>
+</Output>
+</Group></Presentation-Block>
+<Group labelreference="L1" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
+</Input>
+</Group>
+<Group labelreference="L633" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
+</Input>
+</Group>
+</Worksheet>
